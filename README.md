@@ -66,7 +66,7 @@ The program generates two output files after performing the operations for 5 ite
 │── 📄 A_openmp.txt # (ignored)  
 │── 📄 B_openmp.txt # (ignored)  
 │── 🔧 Makefile  
-│── 📜 README.md *(This file)*
+│── 📜 README.md # This file  
 ```
 
 ## 🔹 **OpenMP Implementation Flow**
