@@ -64,7 +64,8 @@ The program generates two output files after performing the operations for 5 ite
 │── 📄 A.txt # (ignored)  
 │── 📄 B.txt # (ignored)  
 │── 📄 A_openmp.txt # (ignored)  
-│── 📄 B_openmp.txt # (ignored)  
+│── 📄 B_openmp.txt # (ignored)
+│── 🖥️ openmp # (ignored)  
 │── 🔧 Makefile  
 │── 📜 README.md # This file
 │── 📜 .gitignore  
