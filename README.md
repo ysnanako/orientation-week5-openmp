@@ -1,4 +1,4 @@
-# orientation-week5-openmp
+# summer-training-week5-openmp
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/orientation-week5-openmp)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/orientation-week5-openmp)
